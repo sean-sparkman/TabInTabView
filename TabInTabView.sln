@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabInTabView", "TabInTabView\TabInTabView.csproj", "{9AA62032-F3D8-497B-8833-340EBD67F80B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AA62032-F3D8-497B-8833-340EBD67F80B}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{9AA62032-F3D8-497B-8833-340EBD67F80B}.Debug|iPhone.Build.0 = Debug|iPhone
+		{9AA62032-F3D8-497B-8833-340EBD67F80B}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{9AA62032-F3D8-497B-8833-340EBD67F80B}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{9AA62032-F3D8-497B-8833-340EBD67F80B}.Release|iPhone.ActiveCfg = Release|iPhone
+		{9AA62032-F3D8-497B-8833-340EBD67F80B}.Release|iPhone.Build.0 = Release|iPhone
+		{9AA62032-F3D8-497B-8833-340EBD67F80B}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{9AA62032-F3D8-497B-8833-340EBD67F80B}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal
